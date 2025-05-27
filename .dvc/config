@@ -1,3 +1,6 @@
 [core]
     analytics = false
     autostage = false
+    remote = myremote
+['remote "myremote"']
+    url = ../tmp
